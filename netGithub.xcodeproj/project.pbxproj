@@ -16,6 +16,7 @@
 		E8BAF0BB28D874B7000F7B2E /* netGithubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BAF0BA28D874B7000F7B2E /* netGithubTests.swift */; };
 		E8BAF0C528D874B7000F7B2E /* netGithubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BAF0C428D874B7000F7B2E /* netGithubUITests.swift */; };
 		E8BAF0C728D874B7000F7B2E /* netGithubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BAF0C628D874B7000F7B2E /* netGithubUITestsLaunchTests.swift */; };
+		E8BAF0D428D87773000F7B2E /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BAF0D328D87773000F7B2E /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E8BAF0C028D874B7000F7B2E /* netGithubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = netGithubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8BAF0C428D874B7000F7B2E /* netGithubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = netGithubUITests.swift; sourceTree = "<group>"; };
 		E8BAF0C628D874B7000F7B2E /* netGithubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = netGithubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E8BAF0D328D87773000F7B2E /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		E8BAF09728D874B5000F7B2E = {
 			isa = PBXGroup;
 			children = (
+				E8BAF0D328D87773000F7B2E /* NewViewController.swift */,
 				E8BAF0A228D874B5000F7B2E /* netGithub */,
 				E8BAF0B928D874B7000F7B2E /* netGithubTests */,
 				E8BAF0C328D874B7000F7B2E /* netGithubUITests */,
@@ -261,6 +264,7 @@
 				E8BAF0A828D874B5000F7B2E /* ViewController.swift in Sources */,
 				E8BAF0A428D874B5000F7B2E /* AppDelegate.swift in Sources */,
 				E8BAF0A628D874B5000F7B2E /* SceneDelegate.swift in Sources */,
+				E8BAF0D428D87773000F7B2E /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
